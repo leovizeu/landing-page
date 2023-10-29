@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    max-width: 90%;
+    
+}
+
+body {
+   
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-container {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
+
+.links {
+    display: flex;
+}
+
+.hero {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.hero-text {
+    
+}
+
+.hero-img {
+    max-width: 300px;
+    height: 200px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8
+}
