@@ -67,6 +67,7 @@ li {
 .hero-text {
     padding-left: 250px;
     padding-right: 250px;
+    padding-top: 100px;
 }
 
 .hero-text h1 {
@@ -272,7 +273,7 @@ blockquote{
     width: 10rem;
     cursor: pointer;
     transform: translateX(-8px);
-    transform: translateY(-4px);
+    transform: translateY(-1px);
     transition: 80ms;
 }
 
